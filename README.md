@@ -20,3 +20,7 @@ To use this code, you need to provide the following details as required for diff
 
    ```bash
    <Server Directory Local Path>python -m pip install -r requirements.txt
+1. **Script Usage**  
+post to step 1
+   ```bash
+   <Script Path>python3 mend_data_extractor.py
