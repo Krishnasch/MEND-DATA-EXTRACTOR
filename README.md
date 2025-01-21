@@ -27,6 +27,6 @@ post to step 1
    ```bash
    <Script Path>python3 mend_data_extractor.py
    ```
-[https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/](https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image1.png)
+![SCREENSHOT1](https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image1.png)
 
-[https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/](https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image2.png)
+![SCREENSHOT2](https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image2.png)
