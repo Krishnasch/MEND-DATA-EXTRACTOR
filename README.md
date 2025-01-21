@@ -19,8 +19,16 @@ To use this code, you need to provide the following details as required for diff
    Ensure you have Python version **3.10.X** installed. Then, install the required modules using `requirements.txt`:
 
    ```bash
-   <Server Directory Local Path>python -m pip install -r requirements.txt
-1. **Script Usage**  
+   python3 -m pip install -r requirements.txt
+   OR
+   pip3 install -r requirements.txt
+2. **Script Usage**  
 post to step 1
    ```bash
    <Script Path>python3 mend_data_extractor.py
+   ```
+![Screenshot1]
+(https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image1.png)
+
+![Screenshot2]
+(https://raw.githubusercontent.com/Krishnasch/MEND-DATA-EXTRACTOR/main/image2.png)
